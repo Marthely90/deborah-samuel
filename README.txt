@@ -1,7 +1,6 @@
 
-TITLE: 
-Wedding Free HTML5 Bootstrap Template for Wedding Website
-AUTHOR:
+TITLE: Site pour le MAriage de Déborah & Samuel
+AUTHOR: GJMTs
 DESIGNED & DEVELOPED by QBOOTSTRAP.COM
 
 Website: 		http://qbootstrap.com/
